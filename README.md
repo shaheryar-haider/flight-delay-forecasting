@@ -81,7 +81,7 @@ Flight delays cost the US airline industry billions annually and frustrate milli
    pip install pandas numpy matplotlib seaborn statsmodels
 ```
 3. Open `Time_Series_Project_Flight_Delay.ipynb` in Jupyter and run all cells
-> The notebook expects the BTS flight delay dataset. You can download it from [Kaggle](https://www.kaggle.com/) by searching for "US flight delays BTS 2019–2023".
+> The notebook expects the BTS flight delay dataset. You can download it from [(https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023) by searching for "US flight delays BTS 2019–2023"].
  
 ---
  
@@ -95,4 +95,4 @@ Flight delays cost the US airline industry billions annually and frustrate milli
  
 ## 👥 Authors
  
-Group 5 — MGSC 697, Time Series Forecasting
+Cindy Hong, Yawen Wang, Syed Shaheryar Haider
